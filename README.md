@@ -12,7 +12,7 @@ Inicialmente iremos possuir somente as linhas do estado de São Paulo e com o te
 
 Banco de dados: PostgreSQL com hospedagem no Supabase
 API: ASP.NET Core
-Front: HTML, CSS e JS
+Front: React e TypeScript
 
 ### Schema 
 
